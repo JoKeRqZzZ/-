@@ -1,0 +1,15 @@
+/Users/daniil/Documents/работы C#/kirieshki/kirieshki/bin/Debug/net7.0/kirieshki
+/Users/daniil/Documents/работы C#/kirieshki/kirieshki/bin/Debug/net7.0/kirieshki.deps.json
+/Users/daniil/Documents/работы C#/kirieshki/kirieshki/bin/Debug/net7.0/kirieshki.runtimeconfig.json
+/Users/daniil/Documents/работы C#/kirieshki/kirieshki/bin/Debug/net7.0/kirieshki.dll
+/Users/daniil/Documents/работы C#/kirieshki/kirieshki/bin/Debug/net7.0/kirieshki.pdb
+/Users/daniil/Documents/работы C#/kirieshki/kirieshki/obj/Debug/net7.0/kirieshki.csproj.AssemblyReference.cache
+/Users/daniil/Documents/работы C#/kirieshki/kirieshki/obj/Debug/net7.0/kirieshki.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniil/Documents/работы C#/kirieshki/kirieshki/obj/Debug/net7.0/kirieshki.AssemblyInfoInputs.cache
+/Users/daniil/Documents/работы C#/kirieshki/kirieshki/obj/Debug/net7.0/kirieshki.AssemblyInfo.cs
+/Users/daniil/Documents/работы C#/kirieshki/kirieshki/obj/Debug/net7.0/kirieshki.csproj.CoreCompileInputs.cache
+/Users/daniil/Documents/работы C#/kirieshki/kirieshki/obj/Debug/net7.0/kirieshki.dll
+/Users/daniil/Documents/работы C#/kirieshki/kirieshki/obj/Debug/net7.0/refint/kirieshki.dll
+/Users/daniil/Documents/работы C#/kirieshki/kirieshki/obj/Debug/net7.0/kirieshki.pdb
+/Users/daniil/Documents/работы C#/kirieshki/kirieshki/obj/Debug/net7.0/kirieshki.genruntimeconfig.cache
+/Users/daniil/Documents/работы C#/kirieshki/kirieshki/obj/Debug/net7.0/ref/kirieshki.dll
